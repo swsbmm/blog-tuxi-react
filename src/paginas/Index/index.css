@@ -1,0 +1,53 @@
+.index{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+
+.home-main{
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    height: 100vh;
+    background-image: url(/src/assets/img/richardstallman.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    margin-top: -90px;
+}
+
+.home-main .home-main-conteiner {
+    display: grid;
+    grid-column: 2;
+    justify-items: center;
+    height: 100%;
+    margin-top: 90px;
+}
+
+.home-main-title {
+    display: grid;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: 700px;
+    letter-spacing: 10px;
+    color: white;
+    text-align: center;
+
+}
+
+.home-main-button button{
+    width: 110px;
+    height: 50px;
+    background: #2f343f;
+    display: grid;
+    align-items: center;
+}
+
+.home-main-button button a {
+    font-weight: 700px;
+    font-size: 18px;
+    color: white;
+}

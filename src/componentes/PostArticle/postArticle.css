@@ -1,0 +1,17 @@
+.post-container {
+    display: inline-block;
+    padding-left: 20px;
+    max-width: 30%;
+    margin-bottom: 30px;
+}
+
+.post-container p {
+    margin-bottom: 35px;
+}
+
+.post-container img {
+    object-fit: cover;
+    width: 100%;
+    height: 240px;
+    border: 5px solid black;
+}

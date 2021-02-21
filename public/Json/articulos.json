@@ -1,0 +1,37 @@
+[
+{
+    "id":"1",
+    "titulo":"Sistemas operativos para aprender y enseñar.",
+    "descripcion":"Desde hace mucho se ha debatido el uso que puede dar un niño o no al momento entrar en el mundo de la tecnología ya sea",
+    "imagen":"blog1.jpg",
+    "contenido":""
+},
+{
+    "id":"2",
+    "titulo":"¿Qué es GNU-linux?.",
+    "descripcion":"Es un sistema operativo de tipo Unix, lo cual significa que se trata de una colección de muchos programas: aplicaciones, bibliotecas, herramientas de desarrollo",
+    "imagen":"blog2.jpg",
+    "contenido":""
+},
+{
+    "id":"3",
+    "titulo":"Ventajas del Software Libre.",
+    "descripcion":"El software libre es todo software cuyo código fuente puede ser estudiado, modificado y utilizado libremente con cualquier fin y redistribuido",
+    "imagen":"jesucristo.jpg",
+    "contenido":""
+},
+{
+    "id":"4",
+    "titulo":"Invitacion GNUBIES.",
+    "descripcion":"El Grupo Linux de la Universidad Distrital se encarga de generar diversos proyectos que tengan repercusión en la vida universitaria y social de la ciudad; queremos conta",
+    "imagen":"logo.png",
+    "contenido":""
+},
+{
+    "id":"5",
+    "titulo":"Libertades software libre.",
+    "descripcion":"Conocidas como “las cuatro libertades esenciales”, el siguiente conjunto de permisos es fundamental para distinguir entre el Software Libre y el tradicional de tipo comercial.",
+    "imagen":"pinguinno.png",
+    "contenido":""
+}
+]
